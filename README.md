@@ -40,4 +40,18 @@ Conventional CMOS Full Adder is the most basic full adder implementation techniq
 ## Reference Circuit Waveform
 ![image](https://user-images.githubusercontent.com/93763657/155790480-3bc5d6fa-db32-40db-bcda-69d90ba2579c.png)
 
+## Desirable Truth Table
+![image](https://user-images.githubusercontent.com/93763657/155791837-fdcea58e-c368-4dd6-8358-c243f478283f.png)
 
+## Tools Used:
+• Synopsys Custom Compiler:
+ The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
+ 
+ ![custom_compiler](https://user-images.githubusercontent.com/59500283/155473715-c6a1fd5b-71c7-4655-936a-5fe3befabfd8.png)
+
+
+• Synopsys Primewave:
+ PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
+
+• Synopsys 28nm PDK:
+ The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
