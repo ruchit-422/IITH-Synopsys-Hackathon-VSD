@@ -35,10 +35,10 @@ A full adder can be implemented in many different ways such as with a custom tra
 Conventional CMOS Full Adder is the most basic full adder implementation techniques. Conventional CMOS Full Adder consists of 28 transistors. A, B and Cin are the inputs and Sum & Cout are the outputs. Static logic provides robustness against noise effects, so automatically provides a reliable operation. Pseudo NMOS pass-transistor logic and reduce the number of transistors required to implement a given logic function but these suffer from static power dissipation. On the other hand, dynamic logic requires less silicon area for implementation of complex function but charge leakage and charge refreshing are required which reduces the frequency of operation. This circuit uses both NMOS and PMOS transistors. In Conventional CMOS Full Adder, there are many leakage paths which lead to more sub threshold leakage.
 
 ## Reference Circuit Diagram
-<img width="1371" alt="Reference_Ckt" src="https://user-images.githubusercontent.com/93763657/155788874-5a8cec99-159a-4ec4-8b76-b69078528177.png">
+<img width="500" alt="Reference_Ckt" src="https://user-images.githubusercontent.com/93763657/155788874-5a8cec99-159a-4ec4-8b76-b69078528177.png">
 
 ## Reference Circuit Waveform
-<img width="1371" alt="Reference_Ckt" src="https://user-images.githubusercontent.com/93763657/155790480-3bc5d6fa-db32-40db-bcda-69d90ba2579c.png">
+<img width="500" alt="Reference_Ckt" src="https://user-images.githubusercontent.com/93763657/155790480-3bc5d6fa-db32-40db-bcda-69d90ba2579c.png">
 
 ## Desirable Truth Table
 ![image](https://user-images.githubusercontent.com/93763657/155791837-fdcea58e-c368-4dd6-8358-c243f478283f.png)
