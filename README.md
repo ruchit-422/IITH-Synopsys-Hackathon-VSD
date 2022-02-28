@@ -368,7 +368,7 @@ PrimeSim Successfully Completed at Fri Feb 25 19:28:30 2022
  
  
 ## Conclusion
-Thus, the addition for a single-bit is achieved using 28T full adder.
+Thus, the addition for a single-bit is achieved using 28T CMOS full adder.
 
 ## Author
 
