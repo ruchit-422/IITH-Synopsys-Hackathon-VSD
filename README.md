@@ -9,16 +9,14 @@
   * [Inverter_Block](#inverter_block)
   * [Carry_Block](#carry_block)
   * [Sum_Block](#sum_block)
-  * [Parameters set for Voltage Source for Input A](#parameters-set-for-voltage-source-for-input-a)
-  * [Parameters set for Voltage Source for Input B](#parameters-set-for-voltage-source-for-input-b)
-  * [Parameters set for Voltage Source for Input C](#parameters-set-for-voltage-source-for-input-c)
+  * [Parameters set for Voltage Sources](#parameters-set-for-voltage-sources)
   * [Transient Settings](#transient-settings)
   * [Schematic of Full_Adder using the above Blocks](#schematic-of-full_adder-using-the-above-blocks)
   * [Output Waveform](#output-waveform)
   * [Netlist](#netlist)
   * [Conclusion](#conclusion)
   * [Author](#author)
-  * [Acknowledgement](#acknowlegement)
+  * [Acknowledgements](#acknowledgements)
   * [References](#references)
 
 ## Abstract
@@ -72,7 +70,7 @@ Conventional CMOS Full Adder is the most basic full adder implementation techniq
   <img src="https://user-images.githubusercontent.com/93763657/155934902-1c767439-6fcb-40ad-a2b6-70cb17bf428a.png" height="500" width="720" hspace="30" title="schmatic"/>
   <img src="https://user-images.githubusercontent.com/93763657/155934770-6e3cb89b-2dce-4329-863e-60f464af32d2.png" width="200" /> 
  
-## Parameters set for Voltage Source
+## Parameters set for Voltage Sources
 <p float="left">
   <img src="https://user-images.githubusercontent.com/59500283/155388964-19e9a68d-e11c-4b39-8a08-1bdd65005658.png" width="270" hspace="20">
   <img src="https://user-images.githubusercontent.com/59500283/155388995-879f0e25-8a64-4e78-bd85-e79c15a113f4.png" width="270" hspace="20"> 
@@ -391,11 +389,6 @@ Thus, the addition for a single-bit is achieved using 28T full adder.
 
 [2] A. P. Chandrakasan, S. Sheng and R. W. Brodersen, "Low-power CMOS digital design," in IEEE Journal of Solid-State Circuits, vol. 27, no. 4, pp. 473-484, April 1992, doi: 10.1109/4.126534. 
 
-[3] G.R.Mahendra Babu, S.Bhavani, “Primitive Cells using Gate Diffusion  Input  Technique:  a  Low  Power  Approach”, International Journal of Recent Technology and Engineering
-(IJRTE), June 
+[3] Akansha Bhargava, Gauri Salunkhe, Ashok Yadav, Jyoti Jeetendra Gurav, 2017, Analysis of Different CMOS Full Adder Circuits Based on Different Parameter for Low Voltage, INTERNATIONAL JOURNAL OF ENGINEERING RESEARCH & TECHNOLOGY (IJERT) ICIATE – 2017 (Volume 5 – Issue 01).
 
-[4] K.Anirudh Kumar Maurya, Y.Rama Lakshmanna,K.Bala Sindhuri, N. Udaya Kumar, “Design and Implementation of 32-bit  adders  using various  Full  Adders”,  International
-Conference  on  Innovations  in Power and Advanced computing Technologies[i-PACT2017].
-
-[5] Mehedi Hasan, Hasan U. Zaman, Mainul Hossain, Parag Biswas, Sharnali Islam, "Gate Diffusion Input technique based full swing and scalable 1-bit hybrid Full Adder for high
-performance applications", Engineering Science and Technology, an International Journal, 2020.
+[4] Analysis and Performance Evaluation of 1-bit Full Adder Using Different Topologies http://pnrsolution.org/Datacenter/Vol5/Issue1/26.pdf
