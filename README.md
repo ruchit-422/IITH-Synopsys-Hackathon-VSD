@@ -392,3 +392,7 @@ Thus, the addition for a single-bit is achieved using 28T CMOS full adder.
 [3] Akansha Bhargava, Gauri Salunkhe, Ashok Yadav, Jyoti Jeetendra Gurav, 2017, Analysis of Different CMOS Full Adder Circuits Based on Different Parameter for Low Voltage, INTERNATIONAL JOURNAL OF ENGINEERING RESEARCH & TECHNOLOGY (IJERT) ICIATE – 2017 (Volume 5 – Issue 01).
 
 [4] Analysis and Performance Evaluation of 1-bit Full Adder Using Different Topologies http://pnrsolution.org/Datacenter/Vol5/Issue1/26.pdf
+
+[5] Moradi, Farshad & Wisland, D.T. & Mahmoodi, Hamid & Aunet, Snorre & Cao, Tuan & Peiravi, Ali. (2009). Ultra Low Power Full Adder Topologies.. 3158-3161. 10.1109/ISCAS.2009.5118473. 
+
+[6] Wikipedia contributors, 'Adder (electronics)', Wikipedia, The Free Encyclopedia, 26 February 2022, 11:45 UTC, <https://en.wikipedia.org/w/index.php?title=Adder_(electronics)&oldid=1074100022> 
